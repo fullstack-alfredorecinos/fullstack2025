@@ -1,6 +1,3 @@
-# fullstack2025
-Repositorio curso Full Stack 2025 - UCataluña
-=======
 #Fullstack25
 Curso de FULLSTACK Frontend + Backend 
 
